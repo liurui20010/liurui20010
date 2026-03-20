@@ -3,7 +3,7 @@ function Hero() {
     <section id="home" className="hero-section">
       <div className="container">
         <div className="hero-content">
-          <h1>你好，我是 <span className="highlight">张三</span></h1>
+          <h1>你好，我是 <span className="highlight">刘锐</span></h1>
           <p className="subtitle">全栈开发工程师 | 技术爱好者</p>
           <p className="description">
             热衷于构建优秀的 Web 应用，不断探索新技术。
